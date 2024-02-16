@@ -120,11 +120,11 @@
 
 [大数据分析]
 
-[大数据计算基础]
+[materials]
 
-[形式语言与自动机]
+[20231215大数据分析复习.pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大三/大数据分析/materials/20231215大数据分析复习.pdf)
 
-[操作系统]
+[计算题整理.pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大三/大数据分析/materials/计算题整理.pdf)
 
 [模式识别与机器学习]
 
@@ -173,8 +173,6 @@
 [大二]
 
 [信息安全数学基础]
-
-[books]
 
 [materials]
 
@@ -306,8 +304,6 @@
 
 [2022秋-复习讲座-数理统计部分.pptx](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大二/概率论与数理统计/materials/概率论与数理统计-2022秋-复习讲座-数理统计部分.pptx)
 
-[毛泽东思想和中国特色社会主义理论体系概论]
-
 [计算机系统]
 
 [books]
@@ -364,8 +360,6 @@
 
 [计算机组成与设计：硬件、软件接口（第4版）.pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大二/计算机组成原理/books/计算机组成与设计：硬件、软件接口（第4版）.pdf)
 
-[exams]
-
 [计算机网络]
 
 [materials]
@@ -380,7 +374,11 @@
 
 [2023秋_复习讲座下半部分.pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大二/计算机网络/materials/计算机网络-2023秋_复习讲座下半部分.pdf)
 
-[计算理论]
+[需求设计与系统分析]
+
+[exams]
+
+[需求分析与系统设计练习题（20231212修订）.pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大二/需求设计与系统分析/exams/需求分析与系统设计练习题（20231212修订）.pdf)
 
 [大四]
 
