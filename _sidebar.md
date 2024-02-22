@@ -34,6 +34,10 @@
 
 [to-algorithms(3rd-edition).pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大一/集合论与图论/books/introduction-to-algorithms(3rd-edition).pdf)
 
+[教科书习题图论答案(网传仅参考).zip](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大一/集合论与图论/books/离散数学-教科书习题图论答案(网传仅参考).zip)
+
+[教科书习题集合论答案（网传仅参考）.pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大一/集合论与图论/books/离散数学-教科书习题集合论答案（网传仅参考）.pdf)
+
 [exams]
 
 [exercise1.pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大一/集合论与图论/exams/exercise1.pdf)
@@ -125,6 +129,18 @@
 [20231215大数据分析复习.pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大三/大数据分析/materials/20231215大数据分析复习.pdf)
 
 [计算题整理.pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大三/大数据分析/materials/计算题整理.pdf)
+
+[嵌入式系统设计与实现]
+
+[materials]
+
+[2023秋-复习指北&课后习题整理.pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大三/嵌入式系统设计与实现/materials/嵌入式系统设计与实现-2023秋-复习指北&课后习题整理.pdf)
+
+[操作系统]
+
+[materials]
+
+[2023春-关于几种调度方式的整理.pdf](https://raw.gitmirror.com/HIT-OpenCS/HIT-OpenCS-Files/main/大三/操作系统/materials/操作系统-2023春-关于几种调度方式的整理.pdf)
 
 [模式识别与机器学习]
 
